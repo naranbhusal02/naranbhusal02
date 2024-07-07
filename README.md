@@ -1,7 +1,7 @@
 ![logo](https://github.com/narayanbhusal/narayanbhusal/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Narayan Bhusal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/narayanbhusal/narayanbhusal/assets/110683302/174a3525-1ad3-49cd-8eb4-7b46d09b0b44">
+<img align="right" alt="coding" width="400" src="https://github.com/narayanbhusal/narayanbhusal/assets/110683302/3c76156e-ac0e-4e19-9a4b-b3b6425e755b">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan9842&label=Profile%20views&color=0e75b6&style=flat" alt="aryan9842" /> </p>
 
 - 🌱 I’m currently learning **Frontend**
