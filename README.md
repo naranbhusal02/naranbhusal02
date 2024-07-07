@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- How to reach me **connectwithnaran@gmail.com**
+- How to reach me **contactwithnaran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
