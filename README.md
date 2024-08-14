@@ -1,3 +1,4 @@
+<img src="https://iili.io/dE2a2fV.png">
 <h1 align="center">Hi 👋, I'm Narayan Bhusal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
@@ -5,8 +6,8 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- How to reach me **connectwithnaran@gmail.com**
-
+- How to reach me **contactwithnaran@gmail.com**
+- **connectwithnaran@outloook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/narayan-bhusal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="narayan-bhusal" height="30" width="40" /></a>
