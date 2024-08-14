@@ -1,4 +1,4 @@
-![logo](https://github.com/narayanbhusal/narayanbhusal/blob/main/NARAYAN%20BHUSAL.png)
+![logo]([https://github.com/narayanbhusal/narayanbhusal/blob/main/NARAYAN%20BHUSAL.png](https://github.com/naranbhusal02/naranbhusal02/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png))
 <h1 align="center">Hi 👋, I'm Narayan Bhusal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/narayanbhusal/narayanbhusal/assets/110683302/3c76156e-ac0e-4e19-9a4b-b3b6425e755b">
