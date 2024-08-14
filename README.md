@@ -9,7 +9,7 @@
 - How to reach me **contactwithnaran@gmail.com**
 - **connectwithnaran@outloook.com**
 - 
-<img align="right" src="https://iili.io/dE2V1lj.gif" height="300px" width="450px">
+<img align="right" src="https://iili.io/dE2V1lj.gif" height="2750px" width="4250px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/narayan-bhusal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="narayan-bhusal" height="30" width="40" /></a>
