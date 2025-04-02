@@ -32,3 +32,4 @@
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naranbhusal02&radius=16&theme=github-dark&area=true" height="300" alt="Activity Graph" />
 
+![snake gif](https://github.com/naranbhusal02/naranbhusal02/blob/output/github-snake-dark.svg)
