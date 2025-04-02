@@ -1,7 +1,9 @@
 <img src="https://iili.io/3KN8oZJ.png">
 <h1 align="center">Hi 👋, I'm Narayan Bhusal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-
+                              <div align="center">
+                              <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Tech+Enthusiast;Designer;Student" alt="Typing SVG" align="center"/>
+                              </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naranbhusal02&label=Profile%20views&color=0e75b6&style=flat" alt="naranbhusal02" /> </p>
 
 - 🌱 I’m currently learning **Frontend**
